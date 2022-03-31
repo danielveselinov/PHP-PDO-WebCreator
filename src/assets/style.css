@@ -1,0 +1,15 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.bg-image-custom {
+    background: linear-gradient( 90deg, #000000 0%, white 0%, rgba(0, 0, 0, 0.35) 0%), url("../assets/images/font-page.jpg") no-repeat center / cover;
+}
+
+.small {
+    font-size: 14px;
+}
+
+.vh-60 {
+    height: 60vh !important;
+}
