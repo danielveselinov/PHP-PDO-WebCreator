@@ -16,8 +16,8 @@ If you're using *Ubuntu* you don't need to change anything, or if you're facing 
 For example:
 
 ```
-define("PATH", "http://localhost/brainster_challenges/");
-define("DB_NAME", "brainster_challenge");
+define("PATH", "http://localhost/YOUR-FILE-PATH/");
+define("DB_NAME", "webcreator");
 define("DB_USERNAME", "root");
 define("DB_PASSWORD", "");
 ```
