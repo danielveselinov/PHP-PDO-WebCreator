@@ -1,5 +1,3 @@
-## 16 - Challenge - PHP Forms
-
 **NOTE:** _this project is using fancy url (PATH/company/generated-id/alert) / (PATH/start) and etc.._
 
 ## To run this challenge first you need to set up a few things..
